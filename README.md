@@ -1,0 +1,1 @@
+This repository contains the code to built a fake news detection model. The model uses a combination of various NLP techniques like tf-idf, n-grams, Non negative matrix factorization and Latent dirichlet allocation to predict if a given news article is fake, true or ambiguous
